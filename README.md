@@ -9,10 +9,6 @@
 - 🚀 Finalist (Top 25/10K) in Goldman Sachs India Quant Hackathon 2025
 - ⚙️ Proficient in Python, C++, C, C#, SQL, MATLAB, Azure AI Foundry, ROS, Unity Engine, Aspen Plus, Simulink, Excel 
 
-## 📈 GitHub Statistics
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=justsidhant&show_icons=true&theme=default)
-
 ## 📫 How to Reach Me
 
 - 🔗 LinkedIn: [linkedin.com/in/sidhantt](https://www.linkedin.com/in/sidhantt/)  
