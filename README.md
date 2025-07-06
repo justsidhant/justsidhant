@@ -14,5 +14,24 @@
 - 🔗 LinkedIn: [linkedin.com/in/sidhantt](https://www.linkedin.com/in/sidhantt/)  
 - ✉️ sidhantthalor@gmail.com
 
+<!-- GitHub Profile Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&margin-w=15&no-bg=true&theme=default" alt="GitHub Trophies" />
+</p>
 
 
