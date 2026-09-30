@@ -7,7 +7,7 @@
 - CFA L1 Candidate
 - Qualified NISM Series VIII – Equity Derivatives Certification by SEBI
 - Represented India at FIRA RoboWorldCup 2024 in São Luís, Brazil and came 4th Globally in the Hurocup event
-- Finalist (Top 25/10K) in Goldman Sachs India Quant Hackathon 2025
+- National Finalist in Goldman Sachs India Quant Hackathon 2025
 
 ## How to Reach Me
 
